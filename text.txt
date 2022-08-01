@@ -1,0 +1,9 @@
+new 
+shadow
+new
+naruto
+show
+name
+store
+show
+car
